@@ -1,5 +1,6 @@
 # Site settings
 title: William's Blog
+SEOTitle: William's Blog
 header-img: img/home-bg.jpg
 email: xjzhouu@gmail.com
 description: "个人博客"
@@ -11,7 +12,7 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-weibo_username: 昵称还没想好吖
+weibo_username: xjzhouu
 #zhihu_username:
 github_username: Williaaaam
 twitter_username: xjzhouu
